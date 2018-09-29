@@ -1,0 +1,675 @@
+{
+  "data": {
+    "info": [
+      {
+        "title": "教学大纲",
+        "link": "/education/syllabus"
+      },
+      {
+        "title": "编者的话",
+        "link": "/education/editor-note"
+      },
+      {
+        "title": "教材简介和订购",
+        "link": "/education/book-info"
+      },
+      {
+        "title": "AP 简介",
+        "link": "/education/ap-info"
+      },
+      {
+        "title": "教学如何衔接",
+        "link": "/education/connection"
+      }
+    ],
+    "classSchedule": [
+      {
+        "title": "K学前班",
+        "content": {
+          "section": [
+            {
+              "title": "学习内容",
+              "content": [
+                "学生对汉字有初步的感觉: (象形字的特点)",
+                "习惯汉字直接认字法（没有拼音）",
+                "按笔划正确书写所学汉字（重点）",
+                "简单生活口语、儿歌"
+              ]
+            },
+            {
+              "title": "达到标准",
+              "content": [
+                "识字量：236个（学生零起点－236个汉字）",
+                "听：听懂课堂用语和老师讲课",
+                "说：简单生活口语（25句）",
+                "读：认读单个汉字，会读简单课文和儿歌",
+                "写：按笔划正确书写所学236个汉字"
+              ]
+            }
+          ],
+          "images": [
+            {
+              "title": "新双双中文新一册 (合订本)",
+              "list": [
+                "assets/images/education/no-1/1.jpg",
+                "assets/images/education/no-1/2.jpg",
+                "assets/images/education/no-1/3.jpg",
+                "assets/images/education/no-1/4.jpg",
+                "assets/images/education/no-1/5.jpg",
+                "assets/images/education/no-1/6.jpg",
+                "assets/images/education/no-1/7.jpg",
+                "assets/images/education/no-1/8.jpg",
+                "assets/images/education/no-1/9.jpg",
+                "assets/images/education/no-1/10.jpg",
+                "assets/images/education/no-1/11.jpg",
+                "assets/images/education/no-1/12.jpg"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "一年级",
+        "content": {
+          "section": [
+            {
+              "title": "学习内容",
+              "content": [
+                "学生对汉字有初步的感觉: (象形字的特点)",
+                "习惯汉字直接认字法（没有拼音）",
+                "按笔划正确书写所学汉字（重点）",
+                "简单生活口语、儿歌"
+              ]
+            },
+            {
+              "title": "达到标准",
+              "content": [
+                "识字量：236个（学生零起点－236个汉字）",
+                "听：听懂课堂用语和老师讲课",
+                "说：简单生活口语（25句）",
+                "读：认读单个汉字，会读简单课文和儿歌",
+                "写：按笔划正确书写所学236个汉字"
+              ]
+            }
+          ],
+          "images": [
+            {
+              "title": "新双双中文新二册 (合订本)",
+              "list": [
+                "assets/images/education/no-2/1.jpg",
+                "assets/images/education/no-2/2.jpg",
+                "assets/images/education/no-2/3.jpg",
+                "assets/images/education/no-2/4.jpg",
+                "assets/images/education/no-2/5.jpg",
+                "assets/images/education/no-2/6.jpg",
+                "assets/images/education/no-2/7.jpg",
+                "assets/images/education/no-2/8.jpg",
+                "assets/images/education/no-2/9.jpg",
+                "assets/images/education/no-2/10.jpg"
+              ]
+            },
+            {
+              "title": "新双双中文新三册 (合订本)",
+              "list": [
+                "assets/images/education/no-3/1.jpg",
+                "assets/images/education/no-3/2.jpg",
+                "assets/images/education/no-3/3.jpg",
+                "assets/images/education/no-3/4.jpg",
+                "assets/images/education/no-3/5.jpg",
+                "assets/images/education/no-3/6.jpg",
+                "assets/images/education/no-3/7.jpg",
+                "assets/images/education/no-3/8.jpg",
+                "assets/images/education/no-3/9.jpg",
+                "assets/images/education/no-3/10.jpg",
+                "assets/images/education/no-3/11.jpg",
+                "assets/images/education/no-3/12.jpg",
+                "assets/images/education/no-3/13.jpg",
+                "assets/images/education/no-3/14.jpg"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "二年级",
+        "content": {
+          "section": [
+            {
+              "title": "学习内容",
+              "content": [
+                "学习拼音，学生400汉字的基础上（重点）",
+                "巩固笔划",
+                "简单生活口语",
+                "开始听写生词"
+              ]
+            },
+            {
+              "title": "达到标准",
+              "content": [
+                "识字量：累计454个（从236字进入－454个汉字）",
+                "听：懂老师用汉语讲课",
+                "说：会说较多生活用语（32句）",
+                "读：掌握正确拼音发音,熟练的拼音技能,流利朗读课文（150字）",
+                "写：巩固笔划,听写生词（每课3－4个）"
+              ]
+            }
+          ],
+          "images": [
+            {
+              "title": "新双双中文新四册 (合订本)",
+              "list": [
+                "assets/images/education/no-4/1.jpg",
+                "assets/images/education/no-4/2.jpg",
+                "assets/images/education/no-4/3.jpg",
+                "assets/images/education/no-4/4.jpg",
+                "assets/images/education/no-4/5.jpg",
+                "assets/images/education/no-4/6.jpg",
+                "assets/images/education/no-4/7.jpg",
+                "assets/images/education/no-4/8.jpg",
+                "assets/images/education/no-4/9.jpg",
+                "assets/images/education/no-4/10.jpg",
+                "assets/images/education/no-4/11.jpg",
+                "assets/images/education/no-4/12.jpg"
+              ]
+            },
+            {
+              "title": "新双双中文新五册 (合订本)",
+              "list": [
+                "assets/images/education/no-5/新五册01.jpg",
+                "assets/images/education/no-5/新五册02.jpg",
+                "assets/images/education/no-5/新五册03.jpg",
+                "assets/images/education/no-5/新五册04.jpg",
+                "assets/images/education/no-5/新五册05.jpg",
+                "assets/images/education/no-5/新五册06.jpg",
+                "assets/images/education/no-5/新五册07.jpg",
+                "assets/images/education/no-5/新五册08.jpg",
+                "assets/images/education/no-5/新五册09.jpg",
+                "assets/images/education/no-5/新五册10.jpg",
+                "assets/images/education/no-5/新五册11.jpg",
+                "assets/images/education/no-5/新五册12.jpg"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "三年级",
+        "content": {
+          "section": [
+            {
+              "title": "学习内容",
+              "content": [
+                "偏旁部首的学习，建立“偏旁部首”记字法（重点）",
+                "复习巩固拼音",
+                "开始造句",
+                "简单口语"
+              ]
+            },
+            {
+              "title": "达到标准",
+              "content": [
+                "识字量：总计710个（从454个字进入－710个汉字）",
+                "语法：牢记“部首偏旁”36个（6、7册）",
+                "会说较多生活用语（20句）",
+                "读：流利朗读课文（课文在300字左右）",
+                "写：开始造句，每课听写6个生字词；“亲子阅读”笔记辅助",
+                "复习巩固拼音（作业生词要求继续写拼音）"
+              ]
+            }
+          ],
+          "images": [
+            {
+              "title": "新双双中文新六册 (合订本)",
+              "list": [
+                "assets/images/education/no-6/新六册01.jpg",
+                "assets/images/education/no-6/新六册02.jpg",
+                "assets/images/education/no-6/新六册03.jpg",
+                "assets/images/education/no-6/新六册04.jpg",
+                "assets/images/education/no-6/新六册05.jpg",
+                "assets/images/education/no-6/新六册06.jpg",
+                "assets/images/education/no-6/新六册07.jpg",
+                "assets/images/education/no-6/新六册08.jpg",
+                "assets/images/education/no-6/新六册09.jpg",
+                "assets/images/education/no-6/新六册10.jpg",
+                "assets/images/education/no-6/新六册11.jpg",
+                "assets/images/education/no-6/新六册12.jpg"
+              ]
+            },
+            {
+              "title": "新双双中文新七册 (合订本)",
+              "list": [
+                "assets/images/education/no-7/新七册01.jpg",
+                "assets/images/education/no-7/新七册02.jpg",
+                "assets/images/education/no-7/新七册03.jpg",
+                "assets/images/education/no-7/新七册04.jpg",
+                "assets/images/education/no-7/新七册05.jpg",
+                "assets/images/education/no-7/新七册06.jpg",
+                "assets/images/education/no-7/新七册07.jpg",
+                "assets/images/education/no-7/新七册08.jpg",
+                "assets/images/education/no-7/新七册09.jpg",
+                "assets/images/education/no-7/新七册10.jpg",
+                "assets/images/education/no-7/新七册11.jpg",
+                "assets/images/education/no-7/新七册12.jpg"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "四年级",
+        "content": {
+          "section": [
+            {
+              "title": "学习内容",
+              "content": [
+                "量词，基本字组字（重点）",
+                "反义词，多音字",
+                "简单口语",
+                "写：简单的课文缩写"
+              ]
+            },
+            {
+              "title": "达到标准",
+              "content": [
+                "识字量：总计1109个（从969字进入－1109字）",
+                "语法：学会联词用法，由简单句组成复合句",
+                "说：练习讲故事，口头讲述一个成语故事（1－2分钟）",
+                "读：流畅朗读课文，“亲子阅读”辅助",
+                "写：课文缩写（7句话），命题小作文（150字，每学期1－2篇）每课听写7－8个生字词，“亲子阅读”读书笔记辅助",
+                "文化学习：使学生学会几条最常用成语和其中的含义，了解这种精练深刻的语言形式"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "五年级",
+        "content": {
+          "section": [
+            {
+              "title": "学习内容：中国成语故事",
+              "content": [
+                "成语是汉语中的一块瑰宝。成语一般是四个字，但都蕴有一个含有 哲理的故事。教成语要介绍成语中的故事和历史背景及所含的哲学 道理。本册选了16条常用成语介绍给学生。使学生了解这种精练 优美的语言形式。"
+              ]
+            },
+            {
+              "title": "达到标准",
+              "content": [
+                "识字量：总计1109个（从969字进入－1109字）",
+                "语法：学会联词用法，由简单句组成复合句",
+                "说：练习讲故事，口头讲述一个成语故事（1－2分钟）",
+                "读：流畅朗读课文，“亲子阅读”辅助",
+                "写：课文缩写（7句话），命题小作文（150字，每学期1－2篇）每课听写7－8个生字词，“亲子阅读”读书笔记辅助",
+                "文化学习：使学生学会几条最常用成语和其中的含义，了解这种精练深刻的语言形式"
+              ]
+            },
+            {
+              "title": "学习内容：中国地理常识",
+              "content": [
+                "简单系统地介绍中国自然地理和人文地理",
+                "增加学生中国文化知识，提高学习兴趣"
+              ]
+            },
+            {
+              "title": "达到标准",
+              "content": [
+                "识字量：总计1291个（从1109字进入－1291个汉字）",
+                "读：流畅朗读课文",
+                "写：手工作业中加入一篇小短文 ，每课听写8个生字词，“亲子阅读”读书笔记辅助",
+                "文化学习：学习看中国地图，了解中国主要山川河流，人口民族，省市自治区，自然资源和特产"
+              ]
+            },
+            {
+              "title": "学习内容: 中国古代故事",
+              "content": [
+                "介绍15个古代著名故事，反映了古代中国人的生活习俗和风貌",
+                "学生亦可感受古代先贤的心胸和智慧，开阔思维，得到文化传承"
+              ]
+            },
+            {
+              "title": "达到标准",
+              "content": [
+                "识字量：总计1405个（从1291字进入－1405个汉字）",
+                "语法：关联词学习，标点符号学习：介绍6种最常用的标点 ，。？ ！ ：“ ”",
+                "读：流利朗读课文（500字）",
+                "文化学习：了解古代中国人的生活习俗和风貌，感受先贤的心胸和智慧 ，得到文化传承。 "
+              ]
+            }
+          ],
+          "images": [
+            {
+              "title": "新双双中文新十二册",
+              "list": [
+                "assets/images/education/no-12/12册01.jpg",
+                "assets/images/education/no-12/12册02.jpg",
+                "assets/images/education/no-12/12册03.jpg",
+                "assets/images/education/no-12/12册04.jpg",
+                "assets/images/education/no-12/12册05.jpg",
+                "assets/images/education/no-12/12册06.jpg",
+                "assets/images/education/no-12/12册07.jpg",
+                "assets/images/education/no-12/12册08.jpg",
+                "assets/images/education/no-12/12册09.jpg",
+                "assets/images/education/no-12/12册10.jpg"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "六年级",
+        "content": {
+          "section": [
+            {
+              "title": "学习内容：神话传说",
+              "content": [
+                "介绍了10篇美丽的神话传说，反映了远古时期华夏民族与自然奋斗，求生存求发展的场面，也勾划出华夏民族这一农耕民族勤劳，勇敢的特点。"
+              ]
+            },
+            {
+              "title": "达到标准",
+              "content": [
+                "识字量：总计1521个（从1405字进入－1521个汉字）",
+                "语法：学习关联词，学习查字典",
+                "读：流利朗读课文（600字）",
+                "写：课文缩写，命题作文1－2篇，每课听写8个生字词",
+                "文化学习：了解华夏民族的起源和发展，以及农耕文化的特点同时与希腊神话加以比较，建立东西方文化比较的意识"
+              ]
+            },
+            {
+              "title": "学习内容：古代科技",
+              "content": [
+                "介绍了部分中国古代科学技术的发现和发明过程。学生们可浏览 中国五千年历史的科技成就：四大发明、茶、陶瓷、丝绸、中医 中草药、水利工程等丰富的知识"
+              ]
+            },
+            {
+              "title": "达到标准",
+              "content": [
+                "识字量：总计1676个（从1521字进入－1676个汉字）",
+                "语法：着重字词的用法",
+                "说：练习讲故事，口头讲一个中国古代发明故事（1－2分钟）",
+                "读：流利朗读课文（600字）",
+                "写：课文缩写，命题作文1－2篇，每课听写8个生字词",
+                "文化学习：了解中国五千年历史的巨大创造力。特别在中医、中草药、水利工程等方面这种全面的天人合一的思想，对未来科学发展的警示作用"
+              ]
+            }
+          ],
+          "images": [
+            {
+              "title": "新双双中文新六册 (合订本)",
+              "list": [
+                "assets/images/education/no-13/十三册01.jpg",
+                "assets/images/education/no-13/十三册02.jpg",
+                "assets/images/education/no-13/十三册03.jpg",
+                "assets/images/education/no-13/十三册04.jpg",
+                "assets/images/education/no-13/十三册05.jpg",
+                "assets/images/education/no-13/十三册06.jpg",
+                "assets/images/education/no-13/十三册07.jpg",
+                "assets/images/education/no-13/十三册08.jpg",
+                "assets/images/education/no-13/十三册09.jpg",
+                "assets/images/education/no-13/十三册10.jpg",
+                "assets/images/education/no-13/十三册11.jpg"
+              ]
+            },
+            {
+              "title": "新双双中文新十四册",
+              "list": [
+                "assets/images/education/no-14/十四册01.jpg",
+                "assets/images/education/no-14/十四册02.jpg",
+                "assets/images/education/no-14/十四册03.jpg",
+                "assets/images/education/no-14/十四册04.jpg",
+                "assets/images/education/no-14/十四册05.jpg",
+                "assets/images/education/no-14/十四册06.jpg",
+                "assets/images/education/no-14/十四册07.jpg",
+                "assets/images/education/no-14/十四册08.jpg",
+                "assets/images/education/no-14/十四册09.jpg",
+                "assets/images/education/no-14/十四册10.jpg"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "七年级",
+        "content": {
+          "section": [
+            {
+              "title": "学习内容： 文学欣赏",
+              "content": [
+                "选取各具风格的古典名著和现代作品的章节改写而成，内容 有趣，观点新颖，词汇量开始加大。通过学习，学生们初步 接触到一些优秀的古典、现代文学作品。"
+              ]
+            },
+            {
+              "title": "达到标准",
+              "content": [
+                "识字量：总计1887个（从1676字进入－1887个汉字）",
+                "写作： 缩写课文（10句，并用到所学词汇）",
+                "教写人：我的老师/朋友/弟弟――",
+                "文章的立意和结构，通过事写人 要求学生掌握（重点）",
+                "朗读：朗读较长的课文"
+              ]
+            },
+            {
+              "title": "学习内容：诗歌欣赏",
+              "content": [
+                "选取了最具代表性的古代和现代诗歌，各具风格。让学生有机 会欣赏中国诗歌的韵律美，体会中国人表达情感的表现方式， 同时学生们也能形象的了解中国古代社会生活的点滴。"
+              ]
+            },
+            {
+              "title": "达到标准",
+              "content": [
+                "识字量：总计2027个（从1887个字进入－2027个汉字）",
+                "写作：教写事：校园生活/节约是美德",
+                "文章的立意 通过人写事 要求学生掌握（重点）",
+                "朗读：朗读和背诵诗词",
+                "文化学习：大体了解中国诗歌的几种形式，体会中国诗词的美感 也可以作为参照与英文诗歌进行比较。"
+              ]
+            }
+          ],
+          "images": [
+            {
+              "title": "新双双中文新十五册 (合订本)",
+              "list": [
+                "assets/images/education/no-15/十五册01.jpg",
+                "assets/images/education/no-15/十五册02.jpg",
+                "assets/images/education/no-15/十五册03.jpg",
+                "assets/images/education/no-15/十五册04.jpg",
+                "assets/images/education/no-15/十五册05.jpg",
+                "assets/images/education/no-15/十五册06.jpg",
+                "assets/images/education/no-15/十五册07.jpg",
+                "assets/images/education/no-15/十五册08.jpg",
+                "assets/images/education/no-15/十五册09.jpg",
+                "assets/images/education/no-15/十五册10.jpg",
+                "assets/images/education/no-15/十五册11.jpg"
+              ]
+            },
+            {
+              "title": "新双双中文新十六册",
+              "list": [
+                "assets/images/education/no-16/十六册01.jpg",
+                "assets/images/education/no-16/十六册02.jpg",
+                "assets/images/education/no-16/十六册03.jpg",
+                "assets/images/education/no-16/十六册04.jpg",
+                "assets/images/education/no-16/十六册05.jpg",
+                "assets/images/education/no-16/十六册06.jpg",
+                "assets/images/education/no-16/十六册07.jpg",
+                "assets/images/education/no-16/十六册08.jpg",
+                "assets/images/education/no-16/十六册09.jpg",
+                "assets/images/education/no-16/十六册10.jpg",
+                "assets/images/education/no-16/十六册11.jpg",
+                "assets/images/education/no-16/十六册12.jpg"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "八年级",
+        "content": {
+          "section": [
+            {
+              "title": "学习内容： 中国科普读物",
+              "content": [
+                "学习一定数量的科技词汇",
+                "了解中国的方方面面"
+              ]
+            },
+            {
+              "title": "达到标准",
+              "content": [
+                "识字量：总计2156个（从2027字进入－2156个汉字）",
+                "写作：将较长的科普课文缩写为250字 要求分段，层次清楚",
+                "读：能阅读较长的科普文章",
+                "文化学习：多方面了解中国"
+              ]
+            },
+            {
+              "title": "学习内容：先秦哲学",
+              "content": [
+                "是中华文明最辉煌的部分，本书以简单的语言重点介绍了儒家、道家、墨家、孙子的思想，提高学生思辨能力，使学生从较深 层次了解中华文化的核心价值。"
+              ]
+            },
+            {
+              "title": "达到标准",
+              "content": [
+                "识字量：累计2201个（从2156字进入－2201个汉字）",
+                "写作：命题小作文，每三周一篇（250字）",
+                "观点清楚，会举例说明自己观点，学会文章的基本结构",
+                "说：会讲述孔子的的思想2分钟",
+                "文化学习:提高学生思辨能力，使学生从较深层次了解中华 文化的核心价值并作为参照与西方价值观进行比 较,站在文化的层面上看待世界。"
+              ]
+            }
+          ],
+          "images": [
+            {
+              "title": "新双双中文新十七册",
+              "list": [
+                "assets/images/education/no-17/17册01.jpg",
+                "assets/images/education/no-17/17册02.jpg",
+                "assets/images/education/no-17/17册03.jpg",
+                "assets/images/education/no-17/17册04.jpg",
+                "assets/images/education/no-17/17册05.jpg",
+                "assets/images/education/no-17/17册06.jpg",
+                "assets/images/education/no-17/17册07.jpg",
+                "assets/images/education/no-17/17册08.jpg",
+                "assets/images/education/no-17/17册09.jpg",
+                "assets/images/education/no-17/17册10.jpg",
+                "assets/images/education/no-17/17册11.jpg"
+              ]
+            },
+            {
+              "title": "新双双中文新十八册",
+              "list": [
+                "assets/images/education/no-18/十八册01.jpg",
+                "assets/images/education/no-18/十八册02.jpg",
+                "assets/images/education/no-18/十八册03.jpg",
+                "assets/images/education/no-18/十八册04.jpg",
+                "assets/images/education/no-18/十八册05.jpg",
+                "assets/images/education/no-18/十八册06.jpg",
+                "assets/images/education/no-18/十八册07.jpg",
+                "assets/images/education/no-18/十八册08.jpg",
+                "assets/images/education/no-18/十八册09.jpg",
+                "assets/images/education/no-18/十八册10.jpg",
+                "assets/images/education/no-18/十八册11.jpg",
+                "assets/images/education/no-18/十八册12.jpg",
+                "assets/images/education/no-18/十八册13.jpg",
+                "assets/images/education/no-18/十八册14.jpg",
+                "assets/images/education/no-18/十八册15.jpg"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "九年级",
+        "content": {
+          "section": [
+            {
+              "title": "SAT2考试",
+              "content": [
+                "考试时间：一小时",
+                "考试内容：共85题，包括：",
+                "        听力 30题",
+                "        语法 25题",
+                "        阅读 30题",
+                "        阅读 30题",
+                " ",
+                "考试训练：重点学习日常生活词语，迅速扩大词汇量1000个",
+                "        听力：练习听力：听懂一般生活语言",
+                "        语法：做语法练习：造句、连词、量词用法及介绍多种语言现象",
+                "        （增加语感，假期学生看可看中文电视连续剧，接触更多语言现象）",
+                "        阅读：做阅读练习，每周听写较多生词，扩大词汇量提高阅读能力",
+                " ",
+                "大大提高学生的生活用语能力，基本满足生活需要 内容包括看病就医，外出旅行，工作广告、天气预告 学校通知等。训练也为AP考试打下坚实的基础。"
+              ]
+            },
+            {
+              "title": "AP考试",
+              "content": [
+                "通过AP考试的学生在听力，阅读，写作，口语交流，文化学识方面， 均能达到一定的标准。为真正达到工作语言打好基础。",
+                "考试要求：",
+                "        口语交往能力",
+                "        了解中国文化",
+                "        比较中美文化",
+                "        横向服务其它学科",
+                "        服务社区",
+                " ",
+                "考试内容（2小时），包括：",
+                "        听力：30题",
+                "        说：口语　一问一答（回答20秒），",
+                "        专题演讲（连续表达２分钟）",
+                "        阅读：35题",
+                "        写：文章2篇：看图写故事, 电子邮件，写信",
+                " ",
+                "考试训练：系统教授写作技能 扩大词汇量以阅读 讲授中华文化",
+                "        写作练习：学习7种常用文体 学生会写应用文，叙事文和议论文",
+                "        阅读：AP教材，补充教材",
+                "        说：AP教材 ，补充话题 达到连续对话5句，专题演讲2分钟",
+                "        听力：AP教材"
+              ]
+            }
+          ],
+          "images": [
+            {
+              "title": "新双双中文新十九册",
+              "list": [
+                "assets/images/education/no-19/十九册01.jpg",
+                "assets/images/education/no-19/十九册02.jpg",
+                "assets/images/education/no-19/十九册03.jpg",
+                "assets/images/education/no-19/十九册04.jpg",
+                "assets/images/education/no-19/十九册05.jpg",
+                "assets/images/education/no-19/十九册06.jpg",
+                "assets/images/education/no-19/十九册07.jpg",
+                "assets/images/education/no-19/十九册08.jpg",
+                "assets/images/education/no-19/十九册09.jpg",
+                "assets/images/education/no-19/十九册10.jpg",
+                "assets/images/education/no-19/十九册11.jpg",
+                "assets/images/education/no-19/十九册12.jpg"
+              ]
+            },
+            {
+              "title": "新双双中文新二十册",
+              "list": [
+                "assets/images/education/no-20/二十册01.jpg",
+                "assets/images/education/no-20/二十册02.jpg",
+                "assets/images/education/no-20/二十册03.jpg",
+                "assets/images/education/no-20/二十册04.jpg",
+                "assets/images/education/no-20/二十册05.jpg",
+                "assets/images/education/no-20/二十册06.jpg",
+                "assets/images/education/no-20/二十册07.jpg",
+                "assets/images/education/no-20/二十册08.jpg",
+                "assets/images/education/no-20/二十册09.jpg",
+                "assets/images/education/no-20/二十册10.jpg",
+                "assets/images/education/no-20/二十册11.jpg",
+                "assets/images/education/no-20/二十册12.jpg",
+                "assets/images/education/no-20/二十册13.jpg",
+                "assets/images/education/no-20/二十册14.jpg",
+                "assets/images/education/no-20/二十册15.jpg",
+                "assets/images/education/no-20/二十册16.jpg"
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

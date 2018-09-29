@@ -1,0 +1,22 @@
+{
+  "name": "sszw.com",
+  "short_name": "Shuang",
+  "description": "Shuang Shuang Chinese School",
+  "theme_color": "#2fc3d3",
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "lang": "en",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "orientation": "any",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "assets/images/aws/favicon.ico",
+      "sizes": "64x64",
+      "type": "favicon/ico"
+    }
+  ]
+}

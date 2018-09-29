@@ -1,0 +1,174 @@
+{
+  "data": {
+    "schedule": [
+      {
+        "level": "0",
+        "title": "K学前班",
+        "textbook": "新双双中文新一册",
+        "time": "周六 11:00 - 12:30",
+        "teacher": "杜玉",
+        "roomNumber": 9
+      },
+      {
+        "level": "1-1",
+        "title": "一年级(1)",
+        "textbook": "新双双中文新二册",
+        "time": "周六 09:15 - 10:45",
+        "teacher": "王敏华",
+        "roomNumber": 10
+      },
+      {
+        "level": "1-2",
+        "title": "一年级(2)",
+        "textbook": "新双双中文新二册",
+        "time": "周六 11:00 - 12:30",
+        "teacher": "王敏华",
+        "roomNumber": 10
+      },
+      {
+        "level": "2",
+        "title": "二年级",
+        "textbook": "新双双中文新三册",
+        "time": "周六 09:15 - 10:45",
+        "teacher": "郭蕾蕾",
+        "roomNumber": 9
+      },
+      {
+        "level": "3-1",
+        "title": "三年级(1)",
+        "textbook": "新双双中文新四册",
+        "time": "周六 09:15 - 10:45",
+        "teacher": "王亚强",
+        "roomNumber": 11
+      },
+      {
+        "level": "3-2",
+        "title": "三年级(2)",
+        "textbook": "新双双中文新四册",
+        "time": "周六 11:00 - 12:30",
+        "teacher": "王亚强",
+        "roomNumber": 11
+      },
+      {
+        "level": "4-1",
+        "title": "四年级(1)",
+        "textbook": "新双双中文新五册",
+        "time": "周六 09:15 - 10:45",
+        "teacher": "薛丽君",
+        "roomNumber": 14
+      },
+      {
+        "level": "4-2",
+        "title": "四年级(2)",
+        "textbook": "新双双中文新五册",
+        "time": "周六 11:00 - 12:30",
+        "teacher": "薛丽君",
+        "roomNumber": 14
+      },
+      {
+        "level": "5-1",
+        "title": "五年级(1)",
+        "textbook": "第10/11册 成语故事/地理常识",
+        "time": "周六 09:15 - 10:45",
+        "teacher": "牛兴雯",
+        "roomNumber": 5
+      },
+      {
+        "level": "5-2",
+        "title": "五年级(2)",
+        "textbook": "第10/11册 成语故事/地理常识",
+        "time": "周六 11:00 - 12:30",
+        "teacher": "代琤",
+        "roomNumber": 5
+      },
+      {
+        "level": "6-1",
+        "title": "六年级(1)",
+        "textbook": "第12/13册 古代故事/神话传说",
+        "time": "周六 08:00 - 09:15",
+        "teacher": "王京辉",
+        "roomNumber": 8
+      },
+      {
+        "level": "6-2",
+        "title": "六年级(2)",
+        "textbook": "第12/13册 古代故事/神话传说",
+        "time": "周六 09:15 - 10:45",
+        "teacher": "王京辉",
+        "roomNumber": 8
+      },
+      {
+        "level": "6-3",
+        "title": "六年级(3)",
+        "textbook": "第12/13册 古代故事/神话传说",
+        "time": "周六 11:00 - 12:30",
+        "teacher": "王京辉",
+        "roomNumber": 8
+      },
+      {
+        "level": "7-1",
+        "title": "七年级(1)",
+        "textbook": "第14/15册 古代科技/文学欣赏",
+        "time": "周六 08:00 - 09:15",
+        "teacher": "孙喆",
+        "roomNumber": 13
+      },
+      {
+        "level": "7-2",
+        "title": "七年级(2)",
+        "textbook": "第14/15册 古代科技/文学欣赏",
+        "time": "周六 09:15 - 10:45",
+        "teacher": "孙喆",
+        "roomNumber": 13
+      },
+      {
+        "level": "7-3",
+        "title": "七年级(3)",
+        "textbook": "第14/15册 古代科技/文学欣赏",
+        "time": "周六 11:00 - 12:30",
+        "teacher": "孙喆",
+        "roomNumber": 13
+      },
+      {
+        "level": "8-1",
+        "title": "八年级(1)",
+        "textbook": "第16/19册 诗词欣赏/中国历史（上）",
+        "time": "周六 08:00 - 09:15",
+        "teacher": "杜国娟",
+        "roomNumber": 7
+      },
+      {
+        "level": "8-2",
+        "title": "八年级(2)",
+        "textbook": "第16/19册 诗词欣赏/中国历史（上）",
+        "time": "周六 09:15 - 10:45",
+        "teacher": "张瓅月",
+        "roomNumber": 7
+      },
+      {
+        "level": "8-3",
+        "title": "八年级(3)",
+        "textbook": "第16/19册 诗词欣赏/中国历史（上）",
+        "time": "周六 11:00 - 12:30",
+        "teacher": "裴砚砾",
+        "roomNumber": 7
+      },
+      {
+        "level": "9-1",
+        "title": "AP班(1)",
+        "textbook": "第18册中国古代哲学 第20册中国历史(下)/AP教材",
+        "time": "周六 09:15 - 10:45",
+        "teacher": "王双双",
+        "roomNumber": 12
+      },
+      {
+        "level": "9-2",
+        "title": "AP班(2)",
+        "textbook": "第18册中国古代哲学 第20册中国历史(下)/AP教材",
+        "time": "周六 11:00 - 12:30",
+        "teacher": "王双双",
+        "roomNumber": 12
+      }
+    ]
+  }
+}
